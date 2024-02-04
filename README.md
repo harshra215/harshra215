@@ -67,9 +67,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/harshra215/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/harshra215/harshra215/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -84,6 +82,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<img src="https://raw.githubusercontent.com/harshra215/harshra215/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/harshra215/count.svg?"  />
+</div>
 
 ###
