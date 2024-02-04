@@ -67,7 +67,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<img src="https://raw.githubusercontent.com/harshra215/harshra215/output/snake.svg" alt="Snake animation" /><br><img src="https://profile-counter.glitch.me/harshra215/count.svg?"  /></br>
+<img src="https://raw.githubusercontent.com/harshra215/harshra215/output/snake.svg" alt="Snake animation" /><img align="right" height="150" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
 
 ###
 
