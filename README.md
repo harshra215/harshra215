@@ -1,3 +1,5 @@
+![](https://www.geeky-gadgets.com/wp-content/uploads/2023/08/free-AI-animation-tools.webp)
+====================================================================================================================================
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh Ranjan
 ====================================================================================================================================
 <h2 align="left"><br>I'm a  Passionate Software Engineer<br>🌍  I'm based in New York<br>🧠  I'm learning Data Structures & Algorithms & Web3<br>🤝  I'm open to collaborating on Open Source Projects</h2>
