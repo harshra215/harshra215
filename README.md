@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm 𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
 <h3 align="center">𝐼'𝓂 𝒶 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
+
  🔭 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 **𝒮𝒽𝑜𝓅𝓅𝑒𝓇𝓈-𝒜𝓃 𝐸𝒸𝑜𝓂𝓂𝑒𝓇𝒸𝑒 𝒜𝓅𝓅**
 
  🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **𝓓𝓪𝓽𝓪 𝓢𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮𝓼 & 𝓐𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼 𝓪𝓷𝓭 𝓦𝓮𝓫3**
