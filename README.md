@@ -1,11 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm 𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
 <h3 align="center">𝐼'𝓂 𝒶 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
-- 🔭 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 **𝒮𝒽𝑜𝓅𝓅𝑒𝓇𝓈-𝒜𝓃 𝐸𝒸𝑜𝓂𝓂𝑒𝓇𝒸𝑒 𝒜𝓅𝓅**
-- 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **𝓓𝓪𝓽𝓪 𝓢𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮𝓼 & 𝓐𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼 𝓪𝓷𝓭 𝓦𝓮𝓫3**
-- 💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 **𝒟𝒶𝓉𝒶 𝒮𝓉𝓇𝓊𝒸𝓉𝓊𝓇𝑒𝓈 & 𝒜𝓁𝑔𝑜𝓇𝒾𝓉𝒽𝓂𝓈 𝒶𝓃𝒹 𝑀𝐸𝑅𝒩 𝒮𝓉𝒶𝒸𝓀**
-- 📫𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 **𝒽𝓇𝟢𝟨𝟤𝟩𝟩𝟦@𝑔𝓂𝒶𝒾𝓁.𝒸𝑜𝓂**
-- 👨‍💻 𝓐𝓵𝓵 𝓸𝓯 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓻𝓮 𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮 𝓪𝓽 **https://portfolio-harshranjan.netlify.app/**
+ 🔭 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 **𝒮𝒽𝑜𝓅𝓅𝑒𝓇𝓈-𝒜𝓃 𝐸𝒸𝑜𝓂𝓂𝑒𝓇𝒸𝑒 𝒜𝓅𝓅**
+
+ 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **𝓓𝓪𝓽𝓪 𝓢𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮𝓼 & 𝓐𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼 𝓪𝓷𝓭 𝓦𝓮𝓫3**
+ 
+  💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 **𝒟𝒶𝓉𝒶 𝒮𝓉𝓇𝓊𝒸𝓉𝓊𝓇𝑒𝓈 & 𝒜𝓁𝑔𝑜𝓇𝒾𝓉𝒽𝓂𝓈 𝒶𝓃𝒹 𝑀𝐸𝑅𝒩 𝒮𝓉𝒶𝒸𝓀**
+  
+ 📫𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 **𝒽𝓇𝟢𝟨𝟤𝟩𝟩𝟦@𝑔𝓂𝒶𝒾𝓁.𝒸𝑜𝓂**
+  
+ 👨‍💻 𝓐𝓵𝓵 𝓸𝓯 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓻𝓮 𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮 𝓪𝓽 **https://portfolio-harshranjan.netlify.app/**
 
 <div> <a href="https://www.linkedin.com/in/harshranjan7777" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/harshra215" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
