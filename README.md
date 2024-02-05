@@ -1,4 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-782.gif"/>
+</p>
+
 <h1 align="center">𝐻𝒾, 𝐼'𝓂👋𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
 <h3 align="center">𝐼'𝓂 𝒶 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
 
@@ -64,6 +69,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshra215&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+ 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harshra215&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
