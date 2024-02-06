@@ -4,7 +4,7 @@
   <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-782.gif"/>
 </p>
 
-<h1 align="center">𝐻𝒾, 𝐼'𝓂👋𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
+<h1 align="center">𝐻𝒾, 𝐼'𝓂<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
 <h3 align="center">𝐼'𝓂 𝒶 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
 
  🔭 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 **𝒮𝒽𝑜𝓅𝓅𝑒𝓇𝓈-𝒜𝓃 𝐸𝒸𝑜𝓂𝓂𝑒𝓇𝒸𝑒 𝒜𝓅𝓅**
