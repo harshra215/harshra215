@@ -4,14 +4,14 @@
   <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-782.gif"/>
 </p>
 
-<h1 align="center">𝐻𝒾, 𝐼'𝓂<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
-<h3 align="center">I'm 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
+<h1 align="center">Hi,I'm<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>Harsh Ranjan</h1>
+<h3 align="center">I'm 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 From HudsonBay,US</h3>
 
  🔭 I'm currently working as **SWE@Ascella**
 
  🌱 I'm currently learning **DSA and Devops**
  
-  💬 Ask me about **𝒟SA and MERN Stack**
+  💬 Ask me about **DSA and MERN Stack**
   
  📫How to reach me **harshranjan215@gmail.com**
   
