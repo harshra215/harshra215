@@ -5,17 +5,17 @@
 </p>
 
 <h1 align="center">𝐻𝒾, 𝐼'𝓂<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>𝐻𝒶𝓇𝓈𝒽 𝑅𝒶𝓃𝒿𝒶𝓃</h1>
-<h3 align="center">𝐼'𝓂 𝒶 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
+<h3 align="center">I'm 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𝐹𝓇𝑜𝓂 𝒩𝑒𝓌𝒴𝑜𝓇𝓀,𝒰𝒮</h3>
 
- 🔭 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 **𝒮𝒽𝑜𝓅𝓅𝑒𝓇𝓈-𝒜𝓃 𝐸𝒸𝑜𝓂𝓂𝑒𝓇𝒸𝑒 𝒜𝓅𝓅**
+ 🔭 I'm currently working as **SWE@Ascella**
 
- 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 **𝓓𝓪𝓽𝓪 𝓢𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮𝓼 & 𝓐𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼 𝓪𝓷𝓭 𝓦𝓮𝓫3**
+ 🌱 I'm currently learning **DSA and Devops**
  
-  💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 **𝒟𝒶𝓉𝒶 𝒮𝓉𝓇𝓊𝒸𝓉𝓊𝓇𝑒𝓈 & 𝒜𝓁𝑔𝑜𝓇𝒾𝓉𝒽𝓂𝓈 𝒶𝓃𝒹 𝑀𝐸𝑅𝒩 𝒮𝓉𝒶𝒸𝓀**
+  💬 Ask me about **𝒟SA and MERN Stack**
   
- 📫𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 **𝒽𝓇𝟢𝟨𝟤𝟩𝟩𝟦@𝑔𝓂𝒶𝒾𝓁.𝒸𝑜𝓂**
+ 📫How to reach me **harshranjan215@gmail.com**
   
- 👨‍💻 𝓐𝓵𝓵 𝓸𝓯 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓻𝓮 𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮 𝓪𝓽 **https://harshrportfolio.netlify.app/**
+ 👨‍💻 All of my projects are availabel : **https://harshrportfolio.netlify.app/**
 
 <div> <a href="https://www.linkedin.com/in/harshranjan77/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/harshra215" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
