@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="center">Hi,I'm<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>Harsh Ranjan</h1>
-<h3 align="center">I'm 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 From HudsonBay,US</h3>
+<h3 align="center">I'm Software Engineer From HudsonBay , US</h3>
 
- 🔭 I'm currently working as **SWE@Ascella**
+ 🔭 I'm currently working as **SWE@Ascella Infosec**
 
  🌱 I'm currently learning **DSA and Devops**
  
