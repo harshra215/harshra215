@@ -13,7 +13,7 @@
  
   💬 Ask me about **DSA and MERN Stack**
   
- 📫How to reach me **harsh.ranjan@ascella.in**
+ 📫How to reach me **harshranjhan@gmail.com**
   
  👨‍💻 All of my projects are  available : **https://harshrportfolio.netlify.app/**
 
