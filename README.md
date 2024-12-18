@@ -7,7 +7,7 @@
 <h1 align="center">Hi,I'm<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>Harsh Ranjan</h1>
 <h3 align="center">I'm Software Engineer From HudsonBay , US</h3>
 
- 🔭 I'm currently working as **SWE@Ascella Infosec**
+ 🔭 I'm currently working as **Product Manager@Medoc Health**
 
  🌱 I'm currently learning **DSA and Devops**
  
