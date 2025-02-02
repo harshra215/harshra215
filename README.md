@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi,I'm<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>Harsh Ranjan</h1>
-<h3 align="center">I'm Software Engineer From HudsonBay , US</h3>
+<h3 align="center">I'm Software Engineer From Pune,IN</h3>
 
  🔭 I'm currently working as **Product Manager@Medoc Health**
 
@@ -13,7 +13,7 @@
  
   💬 Ask me about **DSA and MERN Stack**
   
- 📫How to reach me **harshranjhan@gmail.com**
+ 📫How to reach me **harsh@medochealth.in**
   
  👨‍💻 All of my projects are  available : **https://harshrportfolio.netlify.app/**
 
