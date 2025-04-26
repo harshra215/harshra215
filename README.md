@@ -1,4 +1,4 @@
-# <div align="center">🌐 HARSH RANJAN | THE ARCHITECT</div>
+# <div align="center">🌐 HARSH RANJAN | SOFTWARE ENGINEER INTERN</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=System%20Architecture%20Maestro&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
@@ -26,7 +26,7 @@
 {
   "profile": {
     "name": "Harsh Ranjan",
-    "title": "Backend Architect",
+    "title": "Backend Consultant",
     "company": "Medoc Health",
     "location": {
       "city": "Pune",
@@ -136,7 +136,7 @@
         </p>
       </td>
       <td width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212743472-8ccaa85c-9e35-4b78-a821-40f9c6ff8bf5.gif" width="80%" alt="Database Sharding"/>
+        <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/database-sharding.gif" width="80%" alt="Database Sharding"/>
         <h3 align="center">Hyper-Scale Database Architecture</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Sharding-Consistent_Hashing-44A1A0?style=flat-square" alt="Sharding"/>
